@@ -6,6 +6,7 @@
 <p> Para acessar a SA, siga os seguintes passos:
 <ol>
   <li>Faça o download do arquivo <code>SA.zip</code>;</li>
+  <li>Extraia o arquivo;</li>
   <li>Entre na pasta <code>dist</code>;</li>
   <li>Clique duas vezes sobre o arquivo <code>SA.jar</code>.</li>
 </ol>
